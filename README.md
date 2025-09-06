@@ -26,9 +26,9 @@ A REST API built with Node.js + Express as part of the Full Stack Mini Project.
 ```json
 {
   "is_success": true,
-  "user_id": "harsh_chaturvedi_22BSA10204",
-  "email": "harshchaturvedi073@gmail.com",
-  "roll_number": "22BSA10204",
+  "user_id": "namanmukesh_22bsa10093",
+  "email": "namanmukesh5@gmail.com",
+  "roll_number": "22BSA10093",
   "odd_numbers": ["1"],
   "even_numbers": ["334", "4"],
   "alphabets": ["A", "R"],
