@@ -4,10 +4,10 @@ import { buildConcatString } from "../utils/concat.js";
 
 const router = express.Router();
 
-const FULL_NAME = "HARSH_CHATURVEDI";
-const DOB = "27122003";
-const EMAIL =  "harshchaturvedi073@gmail.com";
-const ROLL_NUMBER =  "22BSA10204";
+const FULL_NAME = "NAMAN_MUKESH";
+const DOB = "05092003";
+const EMAIL =  "namanmukesh5@gmail.com";
+const ROLL_NUMBER =  "22BSA10093";
 
 router.post("/bfhl", (req, res) => {
   try {
